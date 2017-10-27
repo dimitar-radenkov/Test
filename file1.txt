@@ -1,2 +1,3 @@
 some new logic here
 another change
+bug is fixed
