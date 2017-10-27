@@ -1,3 +1,4 @@
 some new logic here
 another change
-bug is fixed
+fixed bug by user1
+
