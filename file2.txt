@@ -1,3 +1,0 @@
-file 2 init
-file 2 another change
-last change 
